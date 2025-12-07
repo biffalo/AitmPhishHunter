@@ -226,7 +226,3 @@ Pull requests and issue reports are welcome!
 * Add new detection heuristics
 * Report false positives
 * Suggest new features
-
-
-Just tell me what else you'd like!
-
