@@ -58,14 +58,14 @@ The core idea:
 ## 🚀 Installation
 
 ```powershell
-git clone https://github.com/<your-user>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/biffalo/AitmPhishHunter
+cd AitmPhishHunter
 ```
 
 Unblock the script if needed:
 
 ```powershell
-Unblock-File .\AiTM-Favicon-Hunter.ps1
+Unblock-File .\aitm-phish-hunter.ps1
 ```
 
 Ensure `C:\temp` exists:
@@ -81,7 +81,7 @@ New-Item -ItemType Directory -Path "C:\temp" -Force | Out-Null
 Open PowerShell **as Administrator** and run:
 
 ```powershell
-.\AiTM-Favicon-Hunter.ps1
+.\aitm-phish-hunter.ps1
 ```
 
 The script will automatically:
